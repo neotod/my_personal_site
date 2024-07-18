@@ -1,0 +1,42 @@
+intro:
+  top: "Hi \U0001F44B"
+  down: I'm Neotod
+job_title:
+  - Back-end Developer
+about_me:
+  - I'm an Electrical Engineering student and a self-taught Programmer.
+  - >-
+    I started programming with C++, then after that I got interested in Python
+    and started Web Development with python.
+  - >-
+    I'm also interested in inovative technologies like Blockchain and AI, and
+    I'm trying to learn them more.
+  - I'm currently in the path of becomming an ML engineer.
+social_media_urls:
+  email: 'mailto:neotod@protonmail.com'
+  github: 'https://github.com/neotod'
+  linkedin: 'https://www.linkedin.com/in/hossein-soltani'
+skills:
+background:
+  - title: Back-end Developer
+    company: Soltani
+    start_date: '2020-01-01'
+    end_date: '2020-12-31'
+    description:
+      - >-
+        I'm working on a project called 'Soltani' which is a platform for
+        selling and buying products.
+      - >-
+        I'm working on the back-end of the project and I'm using Python, Flask,
+        MySQL, Rabbitmq, Docker and Ubuntu Server.
+  - title: Back-end Developer
+    company: Soltani
+    start_date: '2020-01-01'
+    end_date: '2020-12-31'
+    description:
+      - >-
+        I'm working on a project called 'Soltani' which is a platform for
+        selling and buying products.
+      - >-
+        I'm working on the back-end of the project and I'm using Python, Flask,
+        MySQL, Rabbitmq, Docker and Ubuntu Server.
